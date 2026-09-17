@@ -66,16 +66,11 @@
   </a>
 </p>
 
-<!-- Most Used Languages -->
+<!-- GitHub Stats & Most Used Languages -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajeet-sharma-prog&layout=compact" alt="Most Used Languages" />
-</p>
-
-<!-- GitHub Stats -->
-
-<p>
-  <img align="center" src="https://github-stats-mu-nine.vercel.app/api?username=ajeet-sharma-prog&show_icons=true&locale=en" alt="Ajeet Sharma GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ajeet-sharma-prog&layout=compact" alt="Most Used Languages" width="48%" />
+  <img src="https://github-stats-mu-nine.vercel.app/api?username=ajeet-sharma-prog&show_icons=true&locale=en" alt="Ajeet Sharma GitHub Stats" width="48%" />
 </p>
 
 <!-- GitHub Streak -->
@@ -83,3 +78,4 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ajeet-sharma-prog" alt="Ajeet Sharma GitHub Streak" />
 </p>
+
